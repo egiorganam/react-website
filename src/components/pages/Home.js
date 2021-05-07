@@ -1,12 +1,14 @@
-import HeroSection from '../HeroSection'
 import '../../App'
+import HeroSection from '../HeroSection'
 import Cards from '../Cards'
+import Footer from '../Footer'
 
 const Home = () => {
     return (
         <>
             <HeroSection />
             <Cards />
+            <Footer />
         </>
     )
 }
