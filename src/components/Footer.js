@@ -23,7 +23,7 @@ const Footer = () => {
                     </form>
                 </div>
             </section>
-            <div className="footer-links">
+            {/* <div className="footer-links">
                 <div className="footer-link-wrapper">
                     <div className="footer-link-items">
                         <h2>About Us</h2>
@@ -50,7 +50,7 @@ const Footer = () => {
                         <Link to='/'>Term of Service</Link>
                     </div>
                 </div>
-            </div>
+            </div> */}
             <section className="social-media">
                 <div className="social-media-wrap">
                     <div className="footer-logo">
